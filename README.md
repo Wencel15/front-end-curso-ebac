@@ -1,3 +1,3 @@
-# Listarei todo o repositório do curso de front-end da EBAC
+# Listarei todo o repositório do andamento dos estudos de front-end na EBAC
 
 - Ainda em construção
