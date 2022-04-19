@@ -10,3 +10,21 @@
 - Extensível com plugins
 - Instalação: https://jquery.com/download/
 
+## Seletores
+
+
+### Simples
+
+```
+    $('h4') //  tag
+    $('.featured-item') // class
+    $('#featured') // id
+```
+
+### Compostos
+
+```
+    $('h4, h6')
+
+    $('div h4') // h4 que vier depois da div
+```
